@@ -4,6 +4,7 @@ Performing an initial data and exploratory analysis of some of Instacart data in
 
 ## Objective
 <image src="https://github.com/skesic/InstacartGroceryBasketPython/assets/77510959/19a03538-9785-4fd4-b84b-abfb2f1f9eee.png" width=20% height=20%>
+  
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
 The objective of this study is to analyse customer behavior and uncover patterns fro growth.
   
